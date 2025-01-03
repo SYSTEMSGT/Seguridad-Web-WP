@@ -2,7 +2,7 @@
 /*
 Plugin Name: Medidas de seguridad
 Description: Desactiva el archivo xmlrpc.php, versión WP, JSON, CSS y JS
-Version: 2.0
+Version: 1.0
 Author: SYSTEMSGT
 */
 
